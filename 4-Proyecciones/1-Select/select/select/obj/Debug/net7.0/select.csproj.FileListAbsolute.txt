@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\bin\Debug\net7.0\select.exe
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\bin\Debug\net7.0\select.deps.json
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\bin\Debug\net7.0\select.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\bin\Debug\net7.0\select.dll
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\bin\Debug\net7.0\select.pdb
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.dll
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\refint\select.dll
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.pdb
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\select.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\select\select\obj\Debug\net7.0\ref\select.dll

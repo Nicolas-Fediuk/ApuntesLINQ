@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\bin\Debug\net7.0\ejemploPaginacion.exe
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\bin\Debug\net7.0\ejemploPaginacion.deps.json
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\bin\Debug\net7.0\ejemploPaginacion.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\bin\Debug\net7.0\ejemploPaginacion.dll
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\bin\Debug\net7.0\ejemploPaginacion.pdb
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.dll
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\refint\ejemploPaginacion.dll
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.pdb
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ejemploPaginacion.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\7-Paginacion\3-EjemploPaginacion\ejemploPaginacion\ejemploPaginacion\obj\Debug\net7.0\ref\ejemploPaginacion.dll

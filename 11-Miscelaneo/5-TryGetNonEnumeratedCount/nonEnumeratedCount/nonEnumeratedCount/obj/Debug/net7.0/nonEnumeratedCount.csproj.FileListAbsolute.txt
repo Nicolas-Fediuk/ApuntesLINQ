@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\bin\Debug\net7.0\nonEnumeratedCount.exe
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\bin\Debug\net7.0\nonEnumeratedCount.deps.json
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\bin\Debug\net7.0\nonEnumeratedCount.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\bin\Debug\net7.0\nonEnumeratedCount.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\bin\Debug\net7.0\nonEnumeratedCount.pdb
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\refint\nonEnumeratedCount.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.pdb
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\nonEnumeratedCount.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\5-TryGetNonEnumeratedCount\nonEnumeratedCount\nonEnumeratedCount\obj\Debug\net7.0\ref\nonEnumeratedCount.dll

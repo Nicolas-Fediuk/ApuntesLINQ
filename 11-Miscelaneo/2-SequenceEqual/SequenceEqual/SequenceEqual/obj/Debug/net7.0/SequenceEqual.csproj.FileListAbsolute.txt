@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\bin\Debug\net7.0\SequenceEqual.exe
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\bin\Debug\net7.0\SequenceEqual.deps.json
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\bin\Debug\net7.0\SequenceEqual.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\bin\Debug\net7.0\SequenceEqual.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\bin\Debug\net7.0\SequenceEqual.pdb
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\refint\SequenceEqual.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.pdb
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\SequenceEqual.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\2-SequenceEqual\SequenceEqual\SequenceEqual\obj\Debug\net7.0\ref\SequenceEqual.dll

@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\bin\Debug\net7.0\sumaMaxMin.exe
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\bin\Debug\net7.0\sumaMaxMin.deps.json
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\bin\Debug\net7.0\sumaMaxMin.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\bin\Debug\net7.0\sumaMaxMin.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\bin\Debug\net7.0\sumaMaxMin.pdb
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\refint\sumaMaxMin.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.pdb
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\sumaMaxMin.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\2-Suma,max,min\sumaMaxMin\sumaMaxMin\obj\Debug\net7.0\ref\sumaMaxMin.dll

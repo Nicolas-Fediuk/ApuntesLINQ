@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\bin\Debug\net7.0\union.exe
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\bin\Debug\net7.0\union.deps.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\bin\Debug\net7.0\union.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\bin\Debug\net7.0\union.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\bin\Debug\net7.0\union.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\refint\union.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\union.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\2-Union\union\union\obj\Debug\net7.0\ref\union.dll

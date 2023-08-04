@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "union", "union\union.csproj", "{7EDED0F0-6D49-433C-A82E-3AF4DDC739FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDED0F0-6D49-433C-A82E-3AF4DDC739FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDED0F0-6D49-433C-A82E-3AF4DDC739FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDED0F0-6D49-433C-A82E-3AF4DDC739FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDED0F0-6D49-433C-A82E-3AF4DDC739FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130A0561-C217-4C26-B4BC-168FC6D9BD54}
+	EndGlobalSection
+EndGlobal

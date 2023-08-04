@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\bin\Debug\net7.0\single.exe
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\bin\Debug\net7.0\single.deps.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\bin\Debug\net7.0\single.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\bin\Debug\net7.0\single.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\bin\Debug\net7.0\single.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\refint\single.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\single.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\6-Single\single\single\obj\Debug\net7.0\ref\single.dll

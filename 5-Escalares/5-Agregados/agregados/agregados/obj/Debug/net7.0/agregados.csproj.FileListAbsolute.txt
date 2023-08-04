@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\bin\Debug\net7.0\agregados.exe
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\bin\Debug\net7.0\agregados.deps.json
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\bin\Debug\net7.0\agregados.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\bin\Debug\net7.0\agregados.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\bin\Debug\net7.0\agregados.pdb
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\refint\agregados.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.pdb
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\agregados.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\5-Agregados\agregados\agregados\obj\Debug\net7.0\ref\agregados.dll

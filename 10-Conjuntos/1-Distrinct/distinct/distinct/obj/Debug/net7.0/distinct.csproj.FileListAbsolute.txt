@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\bin\Debug\net7.0\distinct.exe
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\bin\Debug\net7.0\distinct.deps.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\bin\Debug\net7.0\distinct.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\bin\Debug\net7.0\distinct.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\bin\Debug\net7.0\distinct.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\refint\distinct.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\distinct.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\1-Distrinct\distinct\distinct\obj\Debug\net7.0\ref\distinct.dll

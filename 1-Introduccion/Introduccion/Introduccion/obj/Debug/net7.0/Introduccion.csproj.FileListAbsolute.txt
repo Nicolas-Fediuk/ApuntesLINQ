@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.exe
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.deps.json
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.dll
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\bin\Debug\net7.0\Introduccion.pdb
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.dll
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\refint\Introduccion.dll
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.pdb
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\Introduccion.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\1-Introduccion\Introduccion\Introduccion\obj\Debug\net7.0\ref\Introduccion.dll

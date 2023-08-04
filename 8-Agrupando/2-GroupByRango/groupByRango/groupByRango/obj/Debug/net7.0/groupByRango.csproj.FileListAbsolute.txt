@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\bin\Debug\net7.0\groupByRango.exe
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\bin\Debug\net7.0\groupByRango.deps.json
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\bin\Debug\net7.0\groupByRango.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\bin\Debug\net7.0\groupByRango.dll
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\bin\Debug\net7.0\groupByRango.pdb
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.dll
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\refint\groupByRango.dll
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.pdb
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\groupByRango.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\2-GroupByRango\groupByRango\groupByRango\obj\Debug\net7.0\ref\groupByRango.dll

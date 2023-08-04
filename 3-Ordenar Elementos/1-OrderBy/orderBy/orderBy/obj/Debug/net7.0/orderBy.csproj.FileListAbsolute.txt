@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\bin\Debug\net7.0\orderBy.exe
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\bin\Debug\net7.0\orderBy.deps.json
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\bin\Debug\net7.0\orderBy.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\bin\Debug\net7.0\orderBy.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\bin\Debug\net7.0\orderBy.pdb
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\refint\orderBy.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.pdb
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\orderBy.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\1-OrderBy\orderBy\orderBy\obj\Debug\net7.0\ref\orderBy.dll

@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\bin\Debug\net7.0\any.exe
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\bin\Debug\net7.0\any.deps.json
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\bin\Debug\net7.0\any.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\bin\Debug\net7.0\any.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\bin\Debug\net7.0\any.pdb
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\refint\any.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.pdb
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\any.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\2-Any\any\any\obj\Debug\net7.0\ref\any.dll

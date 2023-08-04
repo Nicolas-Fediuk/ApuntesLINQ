@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\bin\Debug\net7.0\reverse.exe
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\bin\Debug\net7.0\reverse.deps.json
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\bin\Debug\net7.0\reverse.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\bin\Debug\net7.0\reverse.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\bin\Debug\net7.0\reverse.pdb
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\refint\reverse.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.pdb
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\reverse.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\3-Reverse\reverse\reverse\obj\Debug\net7.0\ref\reverse.dll

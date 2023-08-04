@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\bin\Debug\net7.0\intersect.exe
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\bin\Debug\net7.0\intersect.deps.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\bin\Debug\net7.0\intersect.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\bin\Debug\net7.0\intersect.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\bin\Debug\net7.0\intersect.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\refint\intersect.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\intersect.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\4-intersect\intersect\intersect\obj\Debug\net7.0\ref\intersect.dll

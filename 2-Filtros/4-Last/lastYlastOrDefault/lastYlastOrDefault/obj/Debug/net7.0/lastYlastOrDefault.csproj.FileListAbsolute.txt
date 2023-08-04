@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\bin\Debug\net7.0\lastYlastOrDefault.exe
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\bin\Debug\net7.0\lastYlastOrDefault.deps.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\bin\Debug\net7.0\lastYlastOrDefault.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\bin\Debug\net7.0\lastYlastOrDefault.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\bin\Debug\net7.0\lastYlastOrDefault.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\refint\lastYlastOrDefault.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\lastYlastOrDefault.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\4-Last\lastYlastOrDefault\lastYlastOrDefault\obj\Debug\net7.0\ref\lastYlastOrDefault.dll

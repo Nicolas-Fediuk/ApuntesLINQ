@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\bin\Debug\net7.0\all.exe
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\bin\Debug\net7.0\all.deps.json
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\bin\Debug\net7.0\all.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\bin\Debug\net7.0\all.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\bin\Debug\net7.0\all.pdb
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\refint\all.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.pdb
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\all.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\1-All\all\all\obj\Debug\net7.0\ref\all.dll

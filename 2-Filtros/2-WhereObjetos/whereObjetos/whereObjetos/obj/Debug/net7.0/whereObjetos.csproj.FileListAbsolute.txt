@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\bin\Debug\net7.0\whereObjetos.exe
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\bin\Debug\net7.0\whereObjetos.deps.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\bin\Debug\net7.0\whereObjetos.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\bin\Debug\net7.0\whereObjetos.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\bin\Debug\net7.0\whereObjetos.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\refint\whereObjetos.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\whereObjetos.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\2-WhereObjetos\whereObjetos\whereObjetos\obj\Debug\net7.0\ref\whereObjetos.dll

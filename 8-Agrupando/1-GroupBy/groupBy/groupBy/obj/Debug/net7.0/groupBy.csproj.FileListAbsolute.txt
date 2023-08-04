@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\bin\Debug\net7.0\groupBy.exe
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\bin\Debug\net7.0\groupBy.deps.json
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\bin\Debug\net7.0\groupBy.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\bin\Debug\net7.0\groupBy.dll
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\bin\Debug\net7.0\groupBy.pdb
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.dll
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\refint\groupBy.dll
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.pdb
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\groupBy.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\8-Agrupando\1-GroupBy\groupBy\groupBy\obj\Debug\net7.0\ref\groupBy.dll

@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\bin\Debug\net7.0\firts.exe
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\bin\Debug\net7.0\firts.deps.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\bin\Debug\net7.0\firts.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\bin\Debug\net7.0\firts.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\bin\Debug\net7.0\firts.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\refint\firts.dll
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.pdb
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\firts.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\2-Filtros\3-First\firts\firts\obj\Debug\net7.0\ref\firts.dll

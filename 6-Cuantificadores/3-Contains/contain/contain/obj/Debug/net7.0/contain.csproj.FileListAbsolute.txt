@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\bin\Debug\net7.0\contain.exe
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\bin\Debug\net7.0\contain.deps.json
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\bin\Debug\net7.0\contain.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\bin\Debug\net7.0\contain.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\bin\Debug\net7.0\contain.pdb
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\refint\contain.dll
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.pdb
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\contain.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\6-Cuantificadores\3-Contains\contain\contain\obj\Debug\net7.0\ref\contain.dll

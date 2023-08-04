@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\bin\Debug\net7.0\thenBy.exe
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\bin\Debug\net7.0\thenBy.deps.json
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\bin\Debug\net7.0\thenBy.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\bin\Debug\net7.0\thenBy.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\bin\Debug\net7.0\thenBy.pdb
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\refint\thenBy.dll
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.pdb
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\thenBy.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\3-Ordenar Elementos\2-ThenBy\thenBy\thenBy\obj\Debug\net7.0\ref\thenBy.dll

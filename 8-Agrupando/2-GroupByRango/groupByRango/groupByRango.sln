@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "groupByRango", "groupByRango\groupByRango.csproj", "{B613E9CA-58F2-4CBB-AF61-DF67E1D64093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B613E9CA-58F2-4CBB-AF61-DF67E1D64093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B613E9CA-58F2-4CBB-AF61-DF67E1D64093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B613E9CA-58F2-4CBB-AF61-DF67E1D64093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B613E9CA-58F2-4CBB-AF61-DF67E1D64093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5013B630-15BC-4ED3-82E1-0C43A5115C1A}
+	EndGlobalSection
+EndGlobal

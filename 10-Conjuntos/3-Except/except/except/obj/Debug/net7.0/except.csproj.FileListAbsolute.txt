@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\bin\Debug\net7.0\except.exe
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\bin\Debug\net7.0\except.deps.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\bin\Debug\net7.0\except.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\bin\Debug\net7.0\except.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\bin\Debug\net7.0\except.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\refint\except.dll
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.pdb
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\except.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\10-Conjuntos\3-Except\except\except\obj\Debug\net7.0\ref\except.dll

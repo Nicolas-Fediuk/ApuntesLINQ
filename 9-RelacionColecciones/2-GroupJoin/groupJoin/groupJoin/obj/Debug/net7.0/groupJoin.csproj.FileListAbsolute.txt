@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\bin\Debug\net7.0\groupJoin.exe
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\bin\Debug\net7.0\groupJoin.deps.json
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\bin\Debug\net7.0\groupJoin.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\bin\Debug\net7.0\groupJoin.dll
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\bin\Debug\net7.0\groupJoin.pdb
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.dll
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\refint\groupJoin.dll
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.pdb
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\groupJoin.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\2-GroupJoin\groupJoin\groupJoin\obj\Debug\net7.0\ref\groupJoin.dll

@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\bin\Debug\net7.0\count.exe
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\bin\Debug\net7.0\count.deps.json
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\bin\Debug\net7.0\count.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\bin\Debug\net7.0\count.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\bin\Debug\net7.0\count.pdb
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\refint\count.dll
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.pdb
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\count.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\5-Escalares\1-CountLongCount\count\count\obj\Debug\net7.0\ref\count.dll

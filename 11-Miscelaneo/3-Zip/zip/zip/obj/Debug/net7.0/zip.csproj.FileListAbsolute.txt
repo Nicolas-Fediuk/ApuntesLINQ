@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\bin\Debug\net7.0\zip.exe
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\bin\Debug\net7.0\zip.deps.json
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\bin\Debug\net7.0\zip.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\bin\Debug\net7.0\zip.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\bin\Debug\net7.0\zip.pdb
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\refint\zip.dll
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.pdb
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\zip.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\11-Miscelaneo\3-Zip\zip\zip\obj\Debug\net7.0\ref\zip.dll

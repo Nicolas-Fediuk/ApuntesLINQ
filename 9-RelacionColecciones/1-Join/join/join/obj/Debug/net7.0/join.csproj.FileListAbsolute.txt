@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\bin\Debug\net7.0\join.exe
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\bin\Debug\net7.0\join.deps.json
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\bin\Debug\net7.0\join.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\bin\Debug\net7.0\join.dll
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\bin\Debug\net7.0\join.pdb
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.dll
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\refint\join.dll
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.pdb
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\join.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\9-RelacionColecciones\1-Join\join\join\obj\Debug\net7.0\ref\join.dll

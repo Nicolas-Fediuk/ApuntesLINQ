@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\bin\Debug\net7.0\selectMany.exe
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\bin\Debug\net7.0\selectMany.deps.json
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\bin\Debug\net7.0\selectMany.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\bin\Debug\net7.0\selectMany.dll
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\bin\Debug\net7.0\selectMany.pdb
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.dll
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\refint\selectMany.dll
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.pdb
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\selectMany.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Linq\4-Proyecciones\1-Select\selectMany\selectMany\obj\Debug\net7.0\ref\selectMany.dll
